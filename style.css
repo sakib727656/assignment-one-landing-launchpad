@@ -219,15 +219,3 @@ nav {
     display: flex;
     justify-content: space-between;
 }
-
-.last-from[type="text"] .last-from[type="email"] {
-    height: 64px;
-    border-radius: 5px;
-    background-color: #fff;
-    display: block;
-    width: 100%;
-    padding: 10px 20px;
-    margin-bottom: 24px;
-    border: none;
-    font-size: 16px;
-}
