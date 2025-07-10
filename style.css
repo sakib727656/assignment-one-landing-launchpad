@@ -108,11 +108,126 @@ nav {
     margin: 15px 0px 25px 0px;
 }
 
+/* productive */
+
+.productive-text {
+    display: flex;
+    justify-content: space-around;
+}
+
+.productive {
+    text-align: center;
+    border: 1px solid black;
+    margin: 150px;
+    padding: 40px;
+    border-radius: 25px;
+    background-color: #fbeee075;
+}
+
+.procuctivies {
+    font-size: 40px;
+    margin-bottom: 80px;
+}
+
 .productiveh1 {
-    font-size: 80px;
+    font-size: 70px;
     font-weight: bold;
+
 }
 
 .productiveh6 {
     font-size: 20;
+}
+
+/* user section  */
+.usser-heading {
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    display: block;
+}
+
+.users {
+    display: flex;
+    justify-content: space-around;
+    margin: 110px 140px;
+}
+
+.user-rating {
+    display: flex;
+    margin: 15px 0px;
+}
+
+.user-level {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.usercomment {
+    font-weight: 400;
+    width: 300px;
+    margin: 10px 0px;
+}
+
+.user-name {
+    display: flex;
+}
+
+.name-dates {
+    margin-left: 10px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.date {
+    font-weight: 300;
+}
+
+/* user-list */
+.focus {
+    text-align: center;
+    margin: 150px;
+}
+
+.user-list {
+    padding: 20px;
+    background-color: #fbeee075;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.focus-header {
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+
+.focus-title {
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.focus-button {
+    text-align: center;
+
+}
+
+.last-from {
+    display: flex;
+    justify-content: space-between;
+}
+
+.last-from[type="text"] .last-from[type="email"] {
+    height: 64px;
+    border-radius: 5px;
+    background-color: #fff;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    font-size: 16px;
 }
