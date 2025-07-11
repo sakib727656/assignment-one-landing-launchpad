@@ -63,7 +63,7 @@ nav {
 }
 
 .nav-title {
-    font-size: 45px;
+    font-size: 80px;
     font-weight: 800;
 }
 
@@ -252,4 +252,39 @@ nav {
     padding: 10px 20px;
     margin-bottom: 24px;
     border: none;
+}
+
+/* footer  */
+.footer-p {
+    width: 530px;
+    color: #8987A1;
+    align-items: center;
+}
+
+.footer-ul {
+    gap: 30px;
+    display: flex;
+    margin-left: 500px;
+    margin-top: 20px;
+
+}
+
+.footer-ul li {
+    list-style: none;
+    color: #8987A1;
+
+}
+
+footer {
+    text-align: center;
+    margin: 150px;
+}
+
+.footer-items {
+    text-align: center;
+}
+
+.footer-p {
+    margin-left: 410px;
+    margin-top: 30px;
 }
